@@ -19,4 +19,4 @@ Masukkan ip nya dan record
 Dns 
 https://dnsunli.pages.dev/
 Host to ip
-host-ip.lifetime06.workers.dev
+https://host-ip.lifetime06.workers.dev
